@@ -1,5 +1,7 @@
+===========
 Qizx-Python
 ===========
+
 A Python interface for the for Qualcomm Qizx Database.
 
 Usage
@@ -57,7 +59,7 @@ To run the unit tests::
 
     sh
     python setup.py test
-    
+
 (requires a connection to be configured with write access)
 
 Compatibility
