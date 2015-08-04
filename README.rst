@@ -61,5 +61,5 @@ To run the unit tests::
 (requires a connection to be configured with write access)
 
 Compatibility
-------------
+-------------
 This module is designed to be compatible with Python 2.7.x and Python 3.3+.
