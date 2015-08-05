@@ -12,7 +12,7 @@ from .qizx import (
 )
 
 __title__ = 'qizx'
-__version__ = '1.0.0'
+__version__ = '1.0.2'
 __author__ = "Michael Paddon"
 __license__ = 'MIT'
 __copyright__ = "Copyright 2015 Michael Paddon"

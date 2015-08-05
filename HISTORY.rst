@@ -3,6 +3,19 @@
 Qizx Python bindings changelog
 ==============================
 
+Version 1.0.2
+--------------
+
+Released on 5/8/15
+
+Add MANIFEST.in file for missing package items
+
+Version 1.0.1
+--------------
+
+Released on 5/8/15
+
+
 Version 1.0.0
 --------------
 
