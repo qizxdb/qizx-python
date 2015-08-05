@@ -54,12 +54,10 @@ setup(
     entry_points={
         'console_scripts': [
             'qizxpy = qizx.qizx:main',
-            'qz_dump = tools.qz_dump:main',
-            'qz_restore = tools.qz_restore:main',
         ],
     },
     packages=find_packages(exclude=['tests*']),
     package_data={'': ['LICENSE']},
     test_suite='tests',
-    install_requires=['isodate', 'requests', 'pyyaml', 'lxml'],
+    install_requires=['isodate', 'requests', 'pyyaml'],
 )
