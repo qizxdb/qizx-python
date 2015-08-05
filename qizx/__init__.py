@@ -1,7 +1,7 @@
 """
 Qizx Python API bindings
 
-:copyright: (c) 2015 by Shaun O'Keefe
+:copyright: (c) 2015 by Michael Paddon
 :license: MIT, see LICENSE for more details.
 """
 from .qizx import (
@@ -13,6 +13,6 @@ from .qizx import (
 
 __title__ = 'qizx'
 __version__ = '0.9.10'
-__author__ = "Shaun O'Keefe"
+__author__ = "Michael Paddon"
 __license__ = 'MIT'
-__copyright__ = "Copyright 2015 Shaun O'Keefe"
+__copyright__ = "Copyright 2015 Michael Paddon"
